@@ -1,5 +1,3 @@
-# Prediction-And-Analysis-of-Heart-Disease
-
 This heart disease dataset from www.kaggle.com has 14 attributes. 
 The dataset gives a number of variables along with a target condition of having or not having heart disease.
 The "target" field refers to the presence of heart disease in the patient.
